@@ -1,3 +1,3 @@
 # Techable_Machine_Proj
 
-[🤖🖥 AI nhận diện](https://teachablemachine.withgoogle.com/models/LZJBeNpTz/)
+[🤖🖥 AI nhận diện](https://hanari05.github.io/Teachable-Machine-Proj/)
