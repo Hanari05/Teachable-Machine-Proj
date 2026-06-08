@@ -1,4 +1,4 @@
-# Techable_Machine_Proj
+# Teachable Machine Project
 
 - Web được thực hiện trên mã nguồn từ **Teachable Machine**.
 - Được chỉnh sửa và thiết kế giao diện bởi **Hanari05**.
